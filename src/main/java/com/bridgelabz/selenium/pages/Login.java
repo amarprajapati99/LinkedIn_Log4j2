@@ -29,10 +29,10 @@ public class Login extends BaseClass{
 
     public void login() {
         Log.info ("enter the email id ");
-        userId.sendKeys ("amarprajapati99@gmail.com");
+        userId.sendKeys ("abc@gmail.com");
         driver.manage ().timeouts ().implicitlyWait (20, TimeUnit.SECONDS);
         Log.info ("enter the password");
-        userPassword.sendKeys ("Laxmi0777");
+        userPassword.sendKeys ("JayHindJayBhart");
         Log.info ("click on login button");
         loginButton.click ();
     }
