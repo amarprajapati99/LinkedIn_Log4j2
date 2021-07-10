@@ -25,4 +25,8 @@ public class Log extends BaseClass{
     public static void fatal (String message){
         logger.fatal (message);
     }
+    //debug Level Logs
+    public static void debug (String message) {
+        logger.debug (message);
+    }
 }

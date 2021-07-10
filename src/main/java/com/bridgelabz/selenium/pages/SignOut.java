@@ -6,22 +6,29 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class Logout extends BaseClass{
+public class SignOut extends BaseClass{
 
     /*Used FindBy Annotations for getting elements using locators
      * Initialize web elements */
-    @FindBy (xpath = "//li[@class='global-nav__primary-item ']//span[1]")
+    @FindBy(xpath = "//img[@id='ember34']")
     WebElement clickOnMe;
+
     @FindBy(xpath = "//a[normalize-space()='Sign Out']")
     WebElement signOut;
 
-    /*Called parameterized constructor */
-    public Logout (WebDriver driver) {
-        PageFactory.initElements(driver,this);
+    @FindBy(xpath = "//a[normalize-space()='Sign in']")
+    WebElement signIn;
+
+    public SignOut (WebDriver driver) {
+        PageFactory.initElements (driver, this);
     }
 
-    public void setClickOnMe(){
+    public void setSignOut(){
+        Log.info ("click on me");
         clickOnMe.click ();
+        Log.info ("click on sign-out");
         signOut.click ();
+        Log.info ("click on sign-in");
+        signIn.click ();
     }
 }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="browserName" value="chrome"/>
+    <test verbose="2" preserve-order="true"
+          name="F:/Selenium/LinkedInLog4J/src/test/java/com/bridgelabz/selenium/test/LoginTest.java">
+        <classes>
+            <class name="com.bridgelabz.selenium.test.LoginTest">
+                <methods>
+                    <include name="loginTo_Application_with_valid_credentials"/>
+                    <include name="TestHome_isWorkingOrNot"/>
+                    <include name="ToCheck_MyPost_IsWorking_OrNot"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

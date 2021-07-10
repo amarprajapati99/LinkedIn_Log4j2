@@ -27,13 +27,13 @@ public class Login extends BaseClass{
         PageFactory.initElements (driver, this);
     }
 
-    public void login() {
-        Log.info ("enter the email id ");
-        userId.sendKeys ("abc@gmail.com");
-        driver.manage ().timeouts ().implicitlyWait (20, TimeUnit.SECONDS);
-        Log.info ("enter the password");
-        userPassword.sendKeys ("JayHindJayBhart");
-        Log.info ("click on login button");
+    public void login(String userEmail, String userPass) {
+        Log.info ("enter your email id ");
+        userId.sendKeys (userEmail);
+        Log.info ("enter your user password ");
+        userPassword.sendKeys (userPass);
+        Log.info ("click on login button ");
         loginButton.click ();
+
     }
 }
