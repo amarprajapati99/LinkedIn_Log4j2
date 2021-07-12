@@ -1,42 +1,25 @@
-[INFO ] 2021-07-10 14:07:27.086 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[WARN ] 2021-07-10 14:07:27.118 [main] Log - loginTo_Application_with_valid_credentialsTest is skipped
-[INFO ] 2021-07-10 14:07:27.118 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[WARN ] 2021-07-10 14:07:27.133 [main] Log - loginTo_Application_with_valid_credentialsTest is skipped
-[INFO ] 2021-07-10 14:07:27.133 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[WARN ] 2021-07-10 14:07:27.133 [main] Log - loginTo_Application_with_valid_credentialsTest is skipped
-[INFO ] 2021-07-10 14:07:27.249 [main] Log - toCheck_sendData_inTo_searchBoxTest is starting
-[WARN ] 2021-07-10 14:07:27.265 [main] Log - toCheck_sendData_inTo_searchBoxTest is skipped
-[INFO ] 2021-07-10 14:07:27.265 [main] Log - toCheck_sendData_inTo_searchBoxTest is starting
-[WARN ] 2021-07-10 14:07:27.273 [main] Log - toCheck_sendData_inTo_searchBoxTest is skipped
-[INFO ] 2021-07-10 14:07:27.273 [main] Log - toCheck_sendData_inTo_searchBoxTest is starting
-[WARN ] 2021-07-10 14:07:27.281 [main] Log - toCheck_sendData_inTo_searchBoxTest is skipped
-[INFO ] 2021-07-10 14:08:31.489 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[WARN ] 2021-07-10 14:08:31.505 [main] Log - loginTo_Application_with_valid_credentialsTest is skipped
-[INFO ] 2021-07-10 14:08:31.520 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[WARN ] 2021-07-10 14:08:31.520 [main] Log - loginTo_Application_with_valid_credentialsTest is skipped
-[INFO ] 2021-07-10 14:08:31.520 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[WARN ] 2021-07-10 14:08:31.520 [main] Log - loginTo_Application_with_valid_credentialsTest is skipped
-[INFO ] 2021-07-10 14:08:31.589 [main] Log - toCheck_sendData_inTo_searchBoxTest is starting
-[WARN ] 2021-07-10 14:08:31.605 [main] Log - toCheck_sendData_inTo_searchBoxTest is skipped
-[INFO ] 2021-07-10 14:08:31.605 [main] Log - toCheck_sendData_inTo_searchBoxTest is starting
-[WARN ] 2021-07-10 14:08:31.605 [main] Log - toCheck_sendData_inTo_searchBoxTest is skipped
-[INFO ] 2021-07-10 14:08:31.621 [main] Log - toCheck_sendData_inTo_searchBoxTest is starting
-[WARN ] 2021-07-10 14:08:31.621 [main] Log - toCheck_sendData_inTo_searchBoxTest is skipped
-[WARN ] 2021-07-10 15:43:42.199 [Test worker] Log - Test is failed
-[INFO ] 2021-07-10 15:43:42.214 [Test worker] Log - Gradle testTest is finished
-[INFO ] 2021-07-10 15:57:27.165 [main] Log - launched the browser
-[INFO ] 2021-07-10 15:57:27.344 [main] Log - Open url link
-[INFO ] 2021-07-10 15:57:33.309 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[INFO ] 2021-07-10 15:57:33.437 [main] Log - enter your email id 
-[INFO ] 2021-07-10 15:57:33.951 [main] Log - enter your user password 
-[INFO ] 2021-07-10 15:57:34.146 [main] Log - click on login button 
-[INFO ] 2021-07-10 15:58:04.435 [main] Log - click on me
-[INFO ] 2021-07-10 15:58:04.535 [main] Log - click on sign-out
-[INFO ] 2021-07-10 15:58:04.795 [main] Log - click on sign-in
-[INFO ] 2021-07-10 15:58:09.197 [main] Log - Test is successfully passed
-[INFO ] 2021-07-10 15:58:09.564 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
-[INFO ] 2021-07-10 15:58:09.577 [main] Log - enter your email id 
-[INFO ] 2021-07-10 15:58:09.755 [main] Log - enter your user password 
-[INFO ] 2021-07-10 15:58:09.903 [main] Log - click on login button 
-[INFO ] 2021-07-10 15:58:21.228 [main] Log - click on me
-[INFO ] 2021-07-10 15:58:21.332 [main] Log - click on sign-out
+[INFO ] 2021-07-12 11:27:45.419 [main] Log - Facebook class TestTest is finished
+[INFO ] 2021-07-12 11:30:14.764 [main] Log - launched the browser
+[INFO ] 2021-07-12 11:30:14.964 [main] Log - Open url link
+[INFO ] 2021-07-12 11:30:26.390 [main] Log - loginTo_Application_with_valid_credentialsTest is starting
+[INFO ] 2021-07-12 11:30:26.511 [main] Log - enter your email id 
+[INFO ] 2021-07-12 11:30:26.805 [main] Log - enter your user password 
+[INFO ] 2021-07-12 11:30:26.960 [main] Log - click on login button 
+[INFO ] 2021-07-12 11:30:42.884 [main] Log - click on me
+[INFO ] 2021-07-12 11:30:43.024 [main] Log - click on sign-out
+[INFO ] 2021-07-12 11:30:43.254 [main] Log - click on sign-in
+[INFO ] 2021-07-12 11:30:46.870 [main] Log - Test is successfully passed
+[INFO ] 2021-07-12 11:30:47.440 [main] Log - TestHome_isWorkingOrNotTest is starting
+[INFO ] 2021-07-12 11:30:47.445 [main] Log - enter your email id 
+[INFO ] 2021-07-12 11:30:47.730 [main] Log - enter your user password 
+[INFO ] 2021-07-12 11:30:47.935 [main] Log - click on login button 
+[INFO ] 2021-07-12 11:31:20.700 [main] Log - click on me
+[INFO ] 2021-07-12 11:31:20.785 [main] Log - click on sign-out
+[INFO ] 2021-07-12 11:31:20.950 [main] Log - click on sign-in
+[INFO ] 2021-07-12 11:31:23.570 [main] Log - Test is successfully passed
+[INFO ] 2021-07-12 11:31:23.859 [main] Log - ToCheck_MyPost_IsWorking_OrNotTest is starting
+[INFO ] 2021-07-12 11:31:23.869 [main] Log - enter your email id 
+[INFO ] 2021-07-12 11:31:24.065 [main] Log - enter your user password 
+[INFO ] 2021-07-12 11:31:24.209 [main] Log - click on login button 
+[WARN ] 2021-07-12 11:32:02.074 [main] Log - Test is failed
+[INFO ] 2021-07-12 11:32:06.680 [main] Log - F:/Selenium/LinkedInLog4J/src/test/java/com/bridgelabz/selenium/test/LoginTest.javaTest is finished

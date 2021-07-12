@@ -2,10 +2,15 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <parameter name="browserName" value="chrome"/>
+    <listeners>
+        <listener class-name="com.bridgelabz.selenium.utility.ExtentReport"/>
+    </listeners>
     <test verbose="2" preserve-order="true"
           name="F:/Selenium/LinkedInLog4J/src/test/java/com/bridgelabz/selenium/test/LoginTest.java">
         <classes>
             <class name="com.bridgelabz.selenium.test.LoginTest">
+<!--                <parameter name="email" value="abc@gmail.com"/>-->
+<!--                <parameter name="email" value="JayHindJayBharat"/>-->
                 <methods>
                     <include name="loginTo_Application_with_valid_credentials"/>
                     <include name="TestHome_isWorkingOrNot"/>
